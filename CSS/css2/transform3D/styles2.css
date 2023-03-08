@@ -1,0 +1,28 @@
+div{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.hlo{
+    width: 10001vw;
+    height: 10000px;
+    background-color: yellow;
+}
+#box1{
+    position: fixed;
+    background-color: orange;
+}
+#box2{
+    background-color: white;
+}
+#box3{
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+#box4{
+    background-color: blue;
+}
+
